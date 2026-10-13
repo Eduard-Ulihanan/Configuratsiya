@@ -1,0 +1,9 @@
+python
+-m
+src.emulator
+--vfs
+test_vfs.zip
+--prompt
+my-shell> 
+--script
+startup.txt
